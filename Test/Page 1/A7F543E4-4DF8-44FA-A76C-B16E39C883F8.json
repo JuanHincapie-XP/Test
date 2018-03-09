@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 18,
     "width": 96,
-    "x": 346,
-    "y": 144
+    "x": 40,
+    "y": 52
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,8 +27,15 @@
   "name": "texto",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20333E87-2936-4662-AE08-B7BFBE8FF395",
+      "overrideName": "CA8C2AE6-B621-42E1-B148-26A1E370D7B5_stringValue",
+      "value": "Hola mundo"
+    }
   ],
   "overrides": {
+    "CA8C2AE6-B621-42E1-B148-26A1E370D7B5": "Hola mundo"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
